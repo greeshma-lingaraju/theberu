@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background: #ebddc6;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px;
+}
+
+.title {
+  text-align: center;
+  color: #735592;
+  margin-bottom: 40px;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 30px;
+  margin-bottom: 24px;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+.logo {
+  font-size: 5rem;
+  color: #735592;
+  line-height: 1;
+}
+
+.tagline {
+  margin-top: 10px;
+  font-family: "Quicksand";
+  letter-spacing: 0.35rem;
+  text-transform: uppercase;
+  color: #9B8EC7;
+}
+
+.fontName {
+  margin-top: 20px;
+  color: #999;
+  font-size: 0.9rem;
+}

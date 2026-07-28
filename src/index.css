@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f6f1e7;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+body {
+  background: #FAF9EE;
+}
+
+.logo {
+  font-family: "Baloo 2", cursive;
+  font-size: 10rem;
+  letter-spacing: 0.2rem;
+
+  color: #9B8EC7;
+  line-height: 1;
+}
+
+.tagline {
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.3rem;
+  color: #9B8EC7;
+  margin-top: 0.5rem;
+}
