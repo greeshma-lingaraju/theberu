@@ -76,7 +76,7 @@ export default function App() {
         </div>
       </div>
 
-      <div className="comingSoon">Our Story Begins Soon.....</div>
+      <div className="comingSoon">Our Story Begins Soon....</div>
     </div>
   );
 }
